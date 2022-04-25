@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = judithkarouby@gmail.com
+	name = judith karouby
